@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "Futuristic voice & text AI assistant with OpenRouter integration, multi-model management, real-time STT & TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
